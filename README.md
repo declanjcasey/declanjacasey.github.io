@@ -1,2 +1,2 @@
-# declanjacasey.github.io
-My Software Portfolio
+# Declan Casey Software Portfolio
+My Software Portfolio is located @ declanjcasey.github.io
