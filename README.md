@@ -1,2 +1,6 @@
 # Declan Casey Software Portfolio
-My Software Portfolio is located @ declanjcasey.github.io
+Welcome to my Software Portfolio! It is located @ https://declanjcasey.github.io and the template was found at html5up, https://html5up.net/massively. This is only my first portfolio and while there are still many aspects that I'd like to differently or improve upon, I'm happy to say I am ready for recruiters, hiring managers, and software developers to go through and check out my work. 
+
+The goal of this portfolio was to keep it as simple as possible, and my guiding idea during development was "humility." I am still a young student that is eager to learn and grow as a developer and software engineer, so I don't want to make myself out to be any more than I am. Trying to make myself out to be a far more accomplished developer than I actually am would not feel right, and I'm sure anyone to log would see right through it. I'd rather let the work I've completed and the experience I have show I have the foundations to grow into the industry, despite not having the lengthiest portfolio around.
+
+I decided to keep the layout of my porfolio as simple as possible, without too many redirecting pages and links inside the site itself. I have my github, linkedin, and different projects linked directly to the home page. 
